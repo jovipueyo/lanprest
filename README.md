@@ -1,2 +1,6 @@
 # lanprest
-Lanerako prestakuntza / Formación para el empleo
+_Lanerako prestakuntza_  
+Formación para el empleo  
+  
+_Aplikazioa_  
+Aplicación  
